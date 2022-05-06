@@ -1,0 +1,19 @@
+List of polyhedra with 5 vertices and degrees less or equal 4 in both primal and dual 
+Total number: 2 
+It includes duals to polytopes with 5 or less vertices... 
+ 
+2  4  5 
+2  3  4 
+1  4  5 
+1  3  4 
+1  2  5 
+1  2  3 
+
+ 
+3  4  5 
+2  4  5 
+1  3  4 
+1  2  4 
+1  2  3  5 
+
+ 
